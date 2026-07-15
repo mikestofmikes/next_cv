@@ -3,9 +3,9 @@ import React from 'react'
 function About() {
   return (
     <div>
-      <section id="experience" className="py-20 bg-gray-200 overflow-scroll">
+      <section id="experience" className="py-32 bg-gray-200 overflow-scroll">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-transparent">Work Experience</h2>
+            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-black">Work Experience</h2>
             <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl shadow-md hover:shadow-lg transition">
                     <div className=""></div>

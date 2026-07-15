@@ -3,9 +3,9 @@ import React from 'react'
 function About() {
   return (
     <div>
-        <section id="work" className="py-20 bg-gray-100 min-h-screen">
+        <section id="work" className="py-32 bg-gray-100 min-h-screen">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-transparent">Projects</h2>
+            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text  text-black">Past Work</h2>
              <div className="grid md:grid-cols-3 gap-12">
                 <img src="/img/blackumbrellas_32.webp" alt="Black Umbrellas" className="rounded shadow-md hover:shadow-lg skill-tag w-full"
                     srcSet="/img/blackumbrellas.webp 300w" loading="lazy" />

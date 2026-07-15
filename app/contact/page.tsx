@@ -4,9 +4,9 @@ function Contact() {
   
   return (
     <div>
-      <section id="contact" className="py-20 bg-gray-200 min-h-screen">
+      <section id="contact" className="py-32 bg-gray-200 min-h-screen">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-transparent">Get In Touch</h2>
+            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-black">Get In Touch</h2>
             
             <div className="grid md:grid-cols-2 gap-12">
                 <div>

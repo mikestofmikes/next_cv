@@ -4,9 +4,9 @@ import { SocialIcon } from 'react-social-icons'
 function About() {
   return (
     <div>
-      <section id="about" className="py-20 bg-white ">
+      <section id="about" className="py-32 bg-white ">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-transparent">About Me</h2>
+            <h2 className="text-4xl font-bold mb-12 gradient-bg bg-clip-text text-black">About Me</h2>
             <div className="grid md:grid-cols-3 gap-12">
                 <div className="md:col-span-2   ">
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
